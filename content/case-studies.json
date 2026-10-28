@@ -1,0 +1,257 @@
+[
+  {
+    "slug": "enclaveai",
+    "name": "EnclaveAI",
+    "headline": "Give AI access to your business—with boundaries you can explain.",
+    "category": "Runtime AI Governance",
+    "status": "Product in Development",
+    "interest": "AI Governance",
+    "cta": "Discuss your AI governance requirements →",
+    "image": "assets/projects/enclave-control-tower.jpg",
+    "image_alt": "EnclaveAI control tower interface preview reconstructed from the project source, showing sample telemetry.",
+    "image_caption": "Source-based interface preview · sample telemetry. This is a presentation of the project’s UI, not a capture of live customer activity.",
+    "context": [
+      "AI assistants increasingly work with internal documents, customer information and business tools. As their responsibilities grow, organizations need clear answers to practical questions: What information can the system process? Which actions require authorization? What happens when a request conflicts with company policy?",
+      "These questions matter to the technology team introducing AI and the security, privacy and operational teams responsible for its use."
+    ],
+    "project": [
+      "EnclaveAI is being developed to bring policy-driven controls and decision visibility into AI interactions. It supports inspection of requests and responses, safeguards around sensitive information and reviewable records of enforcement decisions.",
+      "The product brings these concerns into a shared control environment, allowing teams to examine how configured policies affect AI behaviour."
+    ],
+    "scenario": [
+      "An internal assistant receives a request involving customer information. The organization needs to assess whether the proposed use is permitted, apply the appropriate restriction and retain enough context for a later review.",
+      "EnclaveAI addresses this class of problem through configurable enforcement and audit visibility."
+    ],
+    "pilot": [
+      "A focused pilot could examine policy coverage, inappropriate blocking, handling of sensitive requests, integration effort and the usefulness of decision records to reviewers."
+    ],
+    "audience": [
+      "Technology leaders, AI platform teams, security teams and organizations evaluating AI in sensitive business workflows."
+    ],
+    "walkthrough": [
+      "Explore the controls relevant to your use case, review representative decisions and discuss how the product could fit your operating environment."
+    ]
+  },
+  {
+    "slug": "claimlens",
+    "name": "ClaimLens",
+    "headline": "Help investigators see the evidence behind the risk.",
+    "category": "Insurance Intelligence",
+    "status": "Engineering Project",
+    "interest": "Machine Learning",
+    "cta": "Discuss your claims-review workflow →",
+    "image": "assets/projects/claimlens-analysis.jpg",
+    "image_alt": "ClaimLens source-based interface preview showing claim inputs, supporting documents and analysis components.",
+    "image_caption": "Source-based interface preview · sample inputs. No live insurance claim has been submitted.",
+    "context": [
+      "Insurance claims can contain several kinds of evidence: a claimant’s account, policy information, supporting documents and relationships to previous activity. Reviewing each element separately can make it difficult to understand why a claim deserves closer attention.",
+      "Investigators also need an explanation they can examine. A risk indicator becomes useful when it helps them decide what to verify next."
+    ],
+    "project": [
+      "ClaimLens brings claim assessment, document inspection, relationship-based analysis and explanatory output into a shared review workflow.",
+      "The project explores how different forms of evidence can support an investigator’s understanding of a claim. Its focus includes surfacing concerns and presenting them in a form that supports follow-up investigation."
+    ],
+    "scenario": [
+      "A motor claim appears routine when viewed through its narrative alone. Supporting documents or related activity may raise questions that warrant further examination.",
+      "ClaimLens is designed to help a reviewer bring those observations together and identify the evidence requiring additional verification. A flagged claim remains a matter for investigation and professional judgment."
+    ],
+    "pilot": [
+      "A pilot could assess the relevance of flagged cases, the clarity of explanations, document-quality limitations and the time reviewers need to assemble a case assessment."
+    ],
+    "audience": [
+      "Insurance operations teams, claims investigators, fraud-review functions and businesses exploring AI-assisted evidence review."
+    ],
+    "walkthrough": [
+      "Examine a representative claim-review journey and discuss which evidence sources are available within your organization."
+    ]
+  },
+  {
+    "slug": "smart-rcm",
+    "name": "Smart RCM",
+    "headline": "Bring focus to the work holding up the revenue cycle.",
+    "category": "Healthcare Operations",
+    "status": "Prototype",
+    "interest": "AI Product Development",
+    "cta": "Explore an RCM pilot for your team →",
+    "context": [
+      "Revenue-cycle teams manage a moving collection of exceptions. Claims may require coding checks, eligibility concerns may need attention, denials may warrant an appeal and payments may need reconciliation.",
+      "The challenge is deciding which item to examine next, understanding the reason for that priority and carrying the relevant context between teams."
+    ],
+    "project": [
+      "Smart RCM is a prototype that brings several revenue-cycle activities into a connected operational view. Its scope includes denial intelligence, claim checks, appeals prioritization, eligibility-related risk, payment reconciliation and revenue exploration.",
+      "The project also includes conversational assistance for examining claim-level information and preparing summaries for review."
+    ],
+    "scenario": [
+      "A team begins the day with claims awaiting correction, a growing appeals queue and unresolved payment differences. Reviewers need to identify which cases deserve attention and understand the recommended follow-up.",
+      "Smart RCM explores how those decisions can be supported through a clearer view of claim status, relevant concerns and possible next actions."
+    ],
+    "pilot": [
+      "A pilot could measure how useful the recommendations are to staff, whether prioritization improves work allocation and how reliably the prototype handles representative data and exceptions.",
+      "Operational and financial improvements would need to be established through that evaluation."
+    ],
+    "audience": [
+      "Healthcare revenue-cycle teams, billing operations, RCM service providers and teams evaluating decision support for claims management."
+    ],
+    "walkthrough": [
+      "Select one revenue-cycle problem and examine whether a focused prototype could support the people responsible for resolving it."
+    ]
+  },
+  {
+    "slug": "parksight",
+    "name": "ParkSight",
+    "headline": "Connect what happens in the parking area to what operators can do next.",
+    "category": "Computer Vision",
+    "status": "Engineering Project",
+    "interest": "Computer Vision",
+    "cta": "Discuss your parking environment →",
+    "image": "assets/projects/parksight-project.jpg",
+    "image_alt": "ParkSight repository project concept showing parking occupancy, guidance and operations.",
+    "image_caption": "Project concept visual from the ParkSight repository. Displayed figures are illustrative, not production results.",
+    "context": [
+      "Parking operations depend on a changing physical environment. Operators need visibility into occupied spaces, vehicle activity and exceptions while also managing guidance, pricing and commercial records.",
+      "Camera coverage provides a starting point. Its operational value depends on turning observations into information that staff can use."
+    ],
+    "project": [
+      "ParkSight explores a connected parking platform spanning visual monitoring, occupancy information, guidance, operational alerts and billing-related workflows.",
+      "The project considers both the physical environment and the management functions around it. It brings parking activity into an operational interface where teams can examine events and respond according to configured policies."
+    ],
+    "scenario": [
+      "Activity builds across a parking facility during a busy period. Operators need to understand available capacity, identify events requiring attention and maintain visibility into active parking sessions.",
+      "ParkSight explores how these requirements can be connected within a common operating view."
+    ],
+    "pilot": [
+      "A site-specific pilot could assess occupancy detection under actual camera angles and lighting, the usefulness of alerts, visibility of operational exceptions and compatibility with existing parking processes.",
+      "The site layout, camera coverage and operating policies would shape the evaluation."
+    ],
+    "audience": [
+      "Parking operators, commercial facilities, campuses, infrastructure providers and organizations managing vehicle access or physical-space utilization."
+    ],
+    "walkthrough": [
+      "Discuss your site layout and operating model, then examine which parts of the parking workflow could benefit from better visibility."
+    ]
+  },
+  {
+    "slug": "nyaysetu",
+    "name": "NyaySetu",
+    "headline": "Find relevant legal material without losing the context that gives it meaning.",
+    "category": "Legal Intelligence",
+    "status": "Research Implementation",
+    "interest": "Enterprise RAG",
+    "cta": "Discuss a legal-research use case →",
+    "context": [
+      "Legal research requires close attention to context. Similar phrases can appear in different types of agreements or judgments, while a short extract may omit an exception, definition or piece of reasoning that changes its interpretation.",
+      "Researchers need relevant material and a practical way to inspect how that material supports an answer."
+    ],
+    "project": [
+      "NyaySetu is a research implementation focused on Indian contracts and legal judgments. It supports legal questions and clause-related analysis with contextual references, structured explanations and material for professional review.",
+      "The project examines how legal information can remain useful when documents are lengthy, terminology overlaps and the question requires more than a surface-level match."
+    ],
+    "scenario": [
+      "A researcher examines a termination provision. The meaning may depend on the agreement type, surrounding obligations and the legal material relevant to that situation.",
+      "NyaySetu supports exploration of the question and its supporting context, helping the researcher examine whether the retrieved material fits the issue under review."
+    ],
+    "pilot": [
+      "A pilot could assess the relevance of supporting passages, the traceability of references, handling of ambiguous questions and usefulness to legal researchers working with a defined document collection.",
+      "Professional reviewers remain responsible for legal interpretation."
+    ],
+    "audience": [
+      "Legal research teams, legal-technology businesses and organizations working with substantial collections of contracts or judgments."
+    ],
+    "walkthrough": [
+      "Explore a representative research question and discuss the document scope, review requirements and evidence standards your team needs."
+    ]
+  },
+  {
+    "slug": "yojana-ai",
+    "name": "Yojana AI",
+    "headline": "Make complex programme information easier to discover and understand.",
+    "category": "Public Information",
+    "status": "Reference Implementation",
+    "interest": "Enterprise RAG",
+    "cta": "Explore a guided-information assistant →",
+    "context": [
+      "People often begin their search for a government programme with a need: education support, business assistance or help for a particular situation. They may not know the programme name or which conditions apply.",
+      "Relevant information can be spread across detailed documents, making discovery and comparison difficult."
+    ],
+    "project": [
+      "Yojana AI is a reference implementation for conversational exploration of government-scheme information. It supports questions about programme discovery, eligibility conditions, benefits and application procedures.",
+      "The project demonstrates how a large information collection can be organized around the questions people ask, with attention to the relevance and adequacy of the information presented."
+    ],
+    "scenario": [
+      "A person wants to explore programmes that may be relevant to their circumstances. They need to understand the stated conditions, compare available information and identify the next steps for checking official requirements.",
+      "Yojana AI supports that research journey. Final eligibility and programme approval remain with the responsible authorities."
+    ],
+    "pilot": [
+      "An evaluation could examine information freshness, the accuracy of stated requirements, clarity of answers, source traceability and handling of incomplete or ambiguous questions.",
+      "The same operating challenge appears in other document-heavy guidance services."
+    ],
+    "audience": [
+      "Public-information services, citizen-support organizations and businesses helping users navigate complex programme or policy information."
+    ],
+    "walkthrough": [
+      "Discuss your information collection and the questions users struggle to answer today."
+    ]
+  },
+  {
+    "slug": "aimos",
+    "name": "AIMOS",
+    "headline": "Keep campaign context connected from the brief to the next decision.",
+    "category": "Marketing Operations",
+    "status": "Engineering Project",
+    "interest": "Agentic Automation",
+    "cta": "Discuss your marketing operations →",
+    "context": [
+      "Marketing teams work across research, planning, creative preparation, approvals, campaign activity and performance review. Information can become fragmented as work moves between people and platforms.",
+      "Teams managing multiple brands face an additional challenge: maintaining the right business context, commercial boundaries and approval requirements for each account."
+    ],
+    "project": [
+      "AIMOS is an engineering project exploring a shared operating environment for AI-assisted marketing work.",
+      "Its scope includes campaign preparation, brand context, coordinated workflows, approval controls and portfolio-level oversight. The project considers how AI assistance can operate within commercial constraints and retain human involvement in consequential actions."
+    ],
+    "scenario": [
+      "An agency is preparing a campaign for a brand with specific positioning, budget limits and review requirements. Research and proposed actions need to remain connected to those constraints as the campaign develops.",
+      "AIMOS explores how that context can remain available across the work, helping teams review proposals and coordinate execution."
+    ],
+    "pilot": [
+      "A focused pilot could examine the quality of campaign preparation, completeness of approval records, consistency of brand context and the effort involved in coordinating a defined workflow.",
+      "Any improvement in campaign performance would require separate measurement against an agreed baseline."
+    ],
+    "audience": [
+      "Marketing agencies, internal marketing operations teams and businesses coordinating activity across several brands or campaigns."
+    ],
+    "walkthrough": [
+      "Choose one recurring marketing workflow and examine where shared context and controlled AI assistance could improve its operation."
+    ]
+  },
+  {
+    "slug": "clausesense",
+    "name": "ClauseSense",
+    "headline": "Bring the clause and its supporting context into the same review.",
+    "category": "Legal Document Intelligence",
+    "status": "Reference Implementation",
+    "interest": "Enterprise RAG",
+    "cta": "Discuss a clause-review workflow →",
+    "context": [
+      "A clause may be brief while its implications require substantial examination. Reviewers may need to consider relevant legal material, understand possible concerns and prepare questions for further professional assessment.",
+      "Teams using AI for this work also need visibility into the quality and behaviour of the assistance they receive."
+    ],
+    "project": [
+      "ClauseSense is a reference implementation for clause-level legal analysis with supporting context.",
+      "The project combines a focused review task with visibility into the material used to support an explanation. It also includes monitoring of system behaviour and retrieval-related quality indicators.",
+      "Its scope is deliberately focused on helping a reviewer examine a clause and the information relevant to it."
+    ],
+    "scenario": [
+      "A reviewer encounters a provision allowing one party to terminate an agreement. They want to examine the wording, explore relevant context and identify matters requiring closer legal review.",
+      "ClauseSense supports the initial investigation and preparation of that review. Final interpretation and advice remain with the responsible legal professional."
+    ],
+    "pilot": [
+      "A pilot could assess explanation quality, relevance of supporting material, usefulness across a defined set of clauses and the reviewer’s ability to inspect the basis of an answer."
+    ],
+    "audience": [
+      "Legal teams, contract-management functions and legal-technology businesses evaluating focused assistance for document review."
+    ],
+    "walkthrough": [
+      "Bring a representative clause-review task and discuss the information, review boundaries and quality standards it requires."
+    ]
+  }
+]
