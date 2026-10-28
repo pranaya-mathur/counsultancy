@@ -26,4 +26,4 @@ You can also open dist/index.html directly for a quick look.
 
 No build or npm installation is required. Upload the contents of dist/ to a static website host.
 
-The contact form currently prepares an inquiry locally; connect a form service or backend to receive submissions.
+The contact form submits via a mailto link: on submit, it opens the visitor's email app with a pre-filled message addressed to the CONTACT_EMAIL constant at the top of the contact-form handler in dist/assets/site.js. Update that constant if the destination address changes.
